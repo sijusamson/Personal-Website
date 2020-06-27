@@ -10,6 +10,11 @@
 		border-radius: 0px;
 	}
 }
+@media (min-width:1024px) {
+	.ml_50 {
+		margin-left: 50px;
+	}
+}
 @media (max-width:1300px){
 	.testimonials_area .owl-prev, .testimonials_area .owl-next {
 		right: auto;
